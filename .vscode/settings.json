@@ -1,3 +1,4 @@
+
 {
    "solidity-va.test.defaultUnittestTemplate": "hardhat",
    "files.exclude": {
