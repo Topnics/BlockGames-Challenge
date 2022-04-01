@@ -1,0 +1,2 @@
+http://crazy-distance.surge.sh/
+https://rinkeby.etherscan.io/address/0x19C98a9e4f1a7cA18e4CA4d46762c9Ae1F6673B8
